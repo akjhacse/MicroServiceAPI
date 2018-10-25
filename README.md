@@ -1,7 +1,7 @@
 # MicroServiceAPI
 APIs
 
-1. For Runnin the project please follow below steps(In Windows OS)
+1. For Running the project please follow below steps(In Windows OS)
   1. Install visual studio 2017.
   2. Install MSSQL server 2017 or 2014
   3. Install redis cache using this link: https://github.com/MSOpenTech/redis/releases/download/win-3.2.100/Redis-x64-3.2.100.msi
